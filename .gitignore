@@ -1,0 +1,5 @@
+*.py[cod]
+bak
+.ipynb_checkpoints
+tmp
+plots
